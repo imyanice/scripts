@@ -19,3 +19,9 @@ sudo apt install nano screen git vim curl wget
 # Node and npm
 wget -qO- https://deb.nodesource.com/setup_14.x | sudo -E bash -
 sudo apt install -y nodejs
+#Java
+sudo apt install default-jre
+sudo apt install default-jdk
+
+#end
+echo "All the start package was succesfully installed !"
